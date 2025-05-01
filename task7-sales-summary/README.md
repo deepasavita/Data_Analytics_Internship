@@ -1,4 +1,3 @@
-Apologies for the confusion! Here’s the **README.md** for **Task 7: Superstore Sales Summary** in the format you requested, based on your earlier task description.
 
 ---
 
